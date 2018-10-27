@@ -1,0 +1,32 @@
+.slider h3,
+.slider h5,
+.partner h3{
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+
+.parallax-container{
+	height: 20%;
+}
+
+.logoCoffee{
+	display: contents !important;
+	font-size: 1.7rem !important;
+}
+
+.partner img{
+	max-width: 150px;
+	max-height: 100px;
+	filter: drop-shadow(1px 1px 1px rgba(0,0,0,1));
+}
+
+.progresBar {
+    width: 100%;
+}
+
+section, footer {
+	padding: 20px 0px;
+}
+
+.boxshadow{
+	box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
